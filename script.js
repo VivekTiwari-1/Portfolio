@@ -43,7 +43,7 @@ ScrollReveal({
 ScrollReveal().reveal('.home-content, .heading, .skill-head', { origin: 'top' });
 ScrollReveal().reveal('.home-img, .service-container, .portfolio-box, .contact form', { origin: 'bottom' });
 ScrollReveal().reveal('.home-content h1, .about-img, .tech-skill', { origin: 'left' });
-ScrollReveal().reveal('.home-content p, .about-content, .prof-skills', { origin: 'right' });
+ScrollReveal().reveal('.home-content p, .about-content, .prof-skills, .contactH', { origin: 'right' });
 
 // ========================== typed js ==========================
 const typed = new Typed('.multiple-text', {
