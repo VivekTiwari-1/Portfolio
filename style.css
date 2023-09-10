@@ -746,11 +746,11 @@ svg{
 
 .portfolio-box img {
     width: 100%;
-    transition: .5s ease;
+    transition: all 0.8s ease-in;
 }
 
 .portfolio-box img:hover {
-    transform: scale(1.1);
+    transform: scale(1.4);
 }
 
 .portfolio-box .portfolio-layer {
